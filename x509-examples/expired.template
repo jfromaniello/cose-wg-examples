@@ -1,0 +1,4 @@
+cn = 'Alice Lovelace'
+activation_date = "2020-01-01 12:00:00"
+expiration_date = "2021-01-01 12:00:00"
+signing_key
