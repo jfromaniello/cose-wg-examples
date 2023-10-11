@@ -1,0 +1,14 @@
+{
+  "title": "An EC key with a kid of \"bilbo.baggins@hobbiton.example\"",
+  "jwk": {
+    "crv": "P-521",
+    "x": "AHKZLLOsCOzz5cY97ewNUajB957y-C-U88c3v13nmGZx6sYl_oJXu9A5RkTKqjqvjyekWF-7ytDyRXYgCF5cj0Kt",
+    "y": "AdymlHvOiLxXkEhayXQnNCvDX4h9htZaCJN34kfmC6pV5OhQHiraVySsUdaQkAgDPrwQrJmbnX9cwlGfP-HqHZR1",
+    "kty": "EC",
+    "kid": "bilbo.baggins@hobbiton.example"
+  },
+  "output": {
+    "cbor": "a520032158420072992cb3ac08ecf3e5c63dedec0d51a8c1f79ef2f82f94f3c737bf5de7986671eac625fe8257bbd0394644caaa3aaf8f27a4585fbbcad0f2457620085e5c8f42ad22584201dca6947bce88bc5790485ac97427342bc35f887d86d65a089377e247e60baa55e4e8501e2ada5724ac51d6909008033ebc10ac999b9d7f5cc2519f3fe1ea1d9475010202781e62696c626f2e62616767696e7340686f626269746f6e2e6578616d706c65",
+    "cbor_diag": "{-1: 3,-2: h'0072992cb3ac08ecf3e5c63dedec0d51a8c1f79ef2f82f94f3c737bf5de7986671eac625fe8257bbd0394644caaa3aaf8f27a4585fbbcad0f2457620085e5c8f42ad',-3: h'01dca6947bce88bc5790485ac97427342bc35f887d86d65a089377e247e60baa55e4e8501e2ada5724ac51d6909008033ebc10ac999b9d7f5cc25119f3fe1ea1d947',1: 2,2: \"bilbo.baggins@hobbiton.example\",}"
+  }
+}

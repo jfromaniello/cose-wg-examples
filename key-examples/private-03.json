@@ -1,0 +1,15 @@
+{
+  "title": "An EC key with a kid of \"peregrin.took@tuckborough.example\"",
+  "jwk": {
+    "kty": "EC",
+    "crv": "P-256",
+    "kid": "peregrin.took@tuckborough.example",
+    "x": "mPUKT_bAWGHIhg0TpjjqVsP1rXWQu_vwVOHHtNkdYoA",
+    "y": "8BQAsImGeAS46fyWw5MhYfGTT0IjBpFw2SS34Dv4Irs",
+    "d": "AtH35vJsQ9SGjYfOsjUxYXQKrPH3FjZHmEtSKoSN8cM"
+  },
+  "output": {
+    "cbor": "a601022001027821706572656772696e2e746f6f6b407475636b626f726f7567682e6578616d706c6521582098f50a4ff6c05861c8860d13a638ea56c3f5ad7590bbfbf054e1c7b4d91d6280225820f01400b089867804b8e9fc96c3932161f1934f4223069170d924b7e03bf822bb23582002d1f7e6f26c43d4868d87ceb2353161740aacf1f7163647984b522a848df1c3",
+    "cbor_diag": "{1: 2,-1: 1,2: \"peregrin.took@tuckborough.example\",-2: h'98f50a4ff6c05861c8860d13a638ea56c3f5ad7590bbfbf054e1c7b4d91d6280',-3: h'f01400b089867804b8e9fc96c3932161f1934f4223069170d924b7e03bf822bb',-4: h'02d1f7e6f26c43d4868d87ceb2353161740aacf1f7163647984b522a848df1c3',}"
+  }
+}

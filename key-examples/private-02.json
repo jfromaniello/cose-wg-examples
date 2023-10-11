@@ -1,0 +1,12 @@
+{
+  "title": "A shared-secret key with a kid of \"our-secret\"",
+  "jwk": {
+    "kty": "oct",
+    "kid": "our-secret",
+    "k": "hJtXIZ2uSN5kbQfbtTNWbpdmhkV8FJG-Onbc6mxCcYg"
+  },
+  "output": {
+    "cbor": "a30104026a6f75722d736563726574205820849b57219dae48de646d07dbb533566e976686457c1491be3a76dcea6c427188",
+    "cbor_diag": "{1: 4,2: \"our-secret\",-1: h'849b57219dae48de646d07dbb533566e976686457c1491be3a76dcea6c427188',}"
+  }
+}

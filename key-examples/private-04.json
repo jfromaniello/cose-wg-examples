@@ -1,0 +1,12 @@
+{
+  "title": "AA shared-secret key with a kid of \"018c0ae5-4d9b-471b-bfd6-eef314bc7037\"",
+  "jwk": {
+    "kty": "oct",
+    "kid": "018c0ae5-4d9b-471b-bfd6-eef314bc7037",
+    "k": "hJtXIZ2uSN5kbQfbtTNWbpdmhkV8FJG-Onbc6mxCcYg"
+  },
+  "output": {
+    "cbor": "a3010402782430313863306165352d346439622d343731622d626664362d656566333134626337303337205820849b57219dae48de646d07dbb533566e976686457c1491be3a76dcea6c427188",
+    "cbor_diag": "{1: 4,2: \"018c0ae5-4d9b-471b-bfd6-eef314bc7037\",-1: h'849b57219dae48de646d07dbb533566e976686457c1491be3a76dcea6c427188',}"
+  }
+}

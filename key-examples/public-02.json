@@ -1,0 +1,14 @@
+{
+  "title": "An EC key with a kid of \"11\"",
+  "jwk": {
+    "crv": "P-256",
+    "x": "usWxHK2PmfnHKwXPS54m0kTcGJ90UiglWiGahtagnv8",
+    "y": "IBOL-C3BttVivg-lSreASjpkttcsz-1rb7btKLv8EX4",
+    "kty": "EC",
+    "kid": "11"
+  },
+  "output": {
+    "cbor": "a52001215820bac5b11cad8f99f9c72b05cf4b9e26d244dc189f745228255a219a86d6a09eff22582020138bf82dc1b6d562be0fa54ab7804a3a64b6d72ccfed6b6fb6ed28bbfc117e010202623131",
+    "cbor_diag": "{-1: 1,-2: h'bac5b11cad8f99f9c72b05cf4b9e26d244dc189f745228255a219a86d6a09eff',-3: h'20138bf82dc1b6d562be0fa54ab7804a3a64b6d72ccfed6b6fb6ed28bbfc117e',1: 2,2: \"11\",}"
+  }
+}
